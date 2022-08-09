@@ -20,10 +20,12 @@ The dataset was an open sourced kaggle dataset. It was downloaded as a csv file 
 
 The Insights made from the analysis show that:
 1. A total number of 923 laureates has been awarded from the award inception, having 590 shared awards.
-2. Male gender dominance is huge across the different award categories. Award categor for peace has the highest number of females (17) while Economics has the least female awardee (2)
+2. Male gender dominance is huge across the different award categories. Award category for peace has the highest number of females (17) while Economics has the least female awardee (2)
 3. Marie Curie, Frederick Sanger, John Bardeen and Linus Pauling were the double awardee recorded in the history of Nobel Prize awards, John Goodenough (97 years of age) and Malala Yousafzai (17 years old) were the oldest and youngest Nobel Prize awardee recorded. 
-4. The 60 -69 age group has the highest recipient count of (238)
-5. USA is no doubt the homeland of Nobel Prize winners with a total number of 274 recipients. Also the Universities that produced the top 5 Nobel Prize recipients are located in the United States of America. 
+4. The 60 -69 age group has the highest recipient count of (260)
+5. USA is no doubt the homeland of Nobel Prize winners with a total number of 274 recipients. Also the Universities that produced the top 5 Nobel Prize winners are located in the United States of America. 
+
+Nobel Prize Awards: "for the greatest benefits to humanity"
 
 
 
