@@ -7,6 +7,8 @@ Each recipient, a Nobelist or laureate, receives a gold medal, a diploma, and a 
 
 ## Problem Statement 
 
+The objective of this analysis is to get insights into the following;
+
 1. An overview of the total Nobel Prize awarded and how many were shared prizes
 2. How the different award categories differ by recipient gender
 3. Who are the double winners, the oldest and the youngest award recipients 
